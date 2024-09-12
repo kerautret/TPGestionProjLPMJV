@@ -1,3 +1,3 @@
 # TPGestionProjLPMJV
 Premier commit ... BK
-Troisième commit ... GS
+Deuxième commit ... GS
