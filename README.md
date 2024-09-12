@@ -2,6 +2,8 @@
 Premier commit ... BK
 
 
+
+Eliot Cros LP
 Thoral Quentin LP LD
 Barallon Gauthier 3D
 SAMIA   Maha 3D
