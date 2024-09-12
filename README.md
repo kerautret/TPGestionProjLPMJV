@@ -2,7 +2,7 @@
 Premier commit ... BK
 
 
-
+Maxime Lampin Groupe Level Design
 Eliot Cros LP
 Thoral Quentin LP LD
 Barallon Gauthier 3D
