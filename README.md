@@ -1,3 +1,3 @@
 # TPGestionProjLPMJV
 Premier commit ... BK
-Deuxième commit ... GS
+Sienko Gabrielle Level Design
