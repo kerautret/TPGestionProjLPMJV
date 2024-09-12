@@ -1,6 +1,8 @@
 # TPGestionProjLPMJV
 Premier commit ... BK
 
+
+Thoral Quentin LP LD
 Barallon Gauthier 3D
 SAMIA   Maha 3D
 Axel Mambole
