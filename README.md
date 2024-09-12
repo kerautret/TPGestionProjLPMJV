@@ -1,7 +1,6 @@
 # TPGestionProjLPMJV
 Premier commit ... BK
 
-
 Maxime Lampin Groupe Level Design
 Eliot Cros LP
 Thoral Quentin LP LD
@@ -14,3 +13,4 @@ Marie Le Mezec i3D
 VIALLY Lucas LD
 Arthur Cottreau LD
 Aalyah PONCET 
+Emma Das Neves i3D
