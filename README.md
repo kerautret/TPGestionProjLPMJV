@@ -1,4 +1,7 @@
 # TPGestionProjLPMJV
 Premier commit ... BK
 
-Gabriel Auchère LP Infographie3D
+
+Gabriel Auchère I3D
+Mila I3D
+Marie Le Mezec i3D
