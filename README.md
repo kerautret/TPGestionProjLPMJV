@@ -1,4 +1,5 @@
 # TPGestionProjLPMJV
 Premier commit ... BK
 
-commit ici
+Mila I3D
+Marie Le Mezec i3D
